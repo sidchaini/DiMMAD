@@ -1,0 +1,17 @@
+{
+  "seed_choice": 44,
+  "sns_dict": {
+    "context": "paper",
+    "style": "whitegrid",
+    "font_scale": 1.2,
+    "rc": {
+      "xtick.bottom": true,
+      "xtick.top": false,
+      "ytick.left": true,
+      "ytick.right": false,
+      "axes.grid": true,
+      "figure.autolayout": false,
+      "axes.edgecolor": ".15"
+    }
+  }
+}
